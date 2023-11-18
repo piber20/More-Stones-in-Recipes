@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:stone",
+    "minecraft:smooth_stone",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:deepslate",
+    "minecraft:tuff",
+    "minecraft:dripstone_block",
+    "minecraft:smooth_basalt",
+    "minecraft:blackstone"
+  ]
+}

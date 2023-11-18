@@ -1,0 +1,10 @@
+v2.0
+- Updated format to 15 and added supported formats field: 15, 18. This updates the datapack to work with 1.20, 1.20.1, and 1.20.2.
+- Added a proper icon.
+- Added category and notification fields to all recipes, setting them to match the latest versions of Minecraft.
+
+v1.1
+- Smooth Stone and Smooth Stone Slabs are now usable in crafting.
+
+v1.0
+- Initial Release

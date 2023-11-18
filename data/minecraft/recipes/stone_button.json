@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "ingredients": [
+    {
+      "tag": "p20stonecrafting:stone_crafting_materials_smooth"
+    }
+  ],
+  "result": {
+    "item": "minecraft:stone_button"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"pack":{
+		"pack_format": 15,
+		"supported_formats": [15, 18],
+		"description": [{"text":"More Stones in Recipes v2.0","color":"gold"},{"text":"\nAllows you to use more stone types in recipes.","color":"white"},{"text":"\nBy Piber","color":"green"}]
+	}
+}
